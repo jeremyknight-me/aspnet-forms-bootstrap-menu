@@ -1,5 +1,5 @@
 # ASP.NET Forms Bootstrap Menu
-An ASP.NET Form menu control that is compatible with Bootstrap.
+ An extension to the ASP.NET Forms Menu control that is compatible with Bootstrap. This was originally posted here on [my blog](https://jeremyknight.wordpress.com/2014/02/25/asp-net-forms-bootstrap-menu-control/) before it was moved here.
 
 **Projects Using ASP.NET Forms Bootstrap Menu**
 
